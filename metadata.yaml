@@ -1,0 +1,39 @@
+_repo: Views-and-Reviews_37424
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Phillips, Leroy
+    alias: Phillips, Le Roy
+    birthdate: 1870
+    gutenberg_agent_id: '38835'
+    url: http://www.gutenberg.org/2009/agents/38835
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2011-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- 19th century -- History and criticism'
+tableOfContents: The novels of George Eliot -- On a drama of Robert Browning -- Swinburne's
+  essays -- The poetry of William Morris -- Matthew Arnold's essays -- Mr. Walt Whitman
+  -- The poetry of George Eliot -- The limitations of Dickens -- Tennyson's drama
+  -- Contemporary notes on Whistler vs. Ruskin -- A note on John Burroughs -- Mr.
+  Kipling's early stories.
+title: Views and Reviews
+url: http://www.gutenberg.org/ebooks/37424
